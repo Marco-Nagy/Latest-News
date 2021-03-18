@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 3:
                         tab.setText("الرياضة");
-
                         break;
                     default:
                         tab.setText("تكنولوجيا");
